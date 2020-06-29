@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap4",
+  "version": "1.0.0",
+  "description": "coursera",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kedeinroga/bootstrap4.git"
+  },
+  "author": "roga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kedeinroga/bootstrap4/issues"
+  },
+  "homepage": "https://github.com/kedeinroga/bootstrap4#readme"
+}
